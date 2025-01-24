@@ -2,3 +2,6 @@
 stenv
 
 .gitignore
+
+.streamlit/
+.streamlit/secrets.toml
